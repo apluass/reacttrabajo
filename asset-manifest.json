@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/apluass/reacttrabajo/static/css/main.bab0b925.chunk.css",
+    "main.js": "/apluass/reacttrabajo/static/js/main.0fefee61.chunk.js",
+    "main.js.map": "/apluass/reacttrabajo/static/js/main.0fefee61.chunk.js.map",
+    "runtime-main.js": "/apluass/reacttrabajo/static/js/runtime-main.5aaf2c88.js",
+    "runtime-main.js.map": "/apluass/reacttrabajo/static/js/runtime-main.5aaf2c88.js.map",
+    "static/js/2.3f40f49b.chunk.js": "/apluass/reacttrabajo/static/js/2.3f40f49b.chunk.js",
+    "static/js/2.3f40f49b.chunk.js.map": "/apluass/reacttrabajo/static/js/2.3f40f49b.chunk.js.map",
+    "index.html": "/apluass/reacttrabajo/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/apluass/reacttrabajo/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.3f40f49b.chunk.js.LICENSE.txt": "/apluass/reacttrabajo/static/js/2.3f40f49b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aaf2c88.js",
+    "static/js/2.3f40f49b.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.0fefee61.chunk.js"
+  ]
+}
