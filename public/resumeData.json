@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Abel Pluas Sánchez",
+    "description":"Soy Estudiante de la carrera de Ingeniería en Software",
+    "image":"profilepic.jpg",
+    "bio":"Soy Abel Isaías Pluas Sánchez. Estudiante de la carrera de Ingeniería en Software de Quinto Semestre. Es increíble cómo puede cambiar tu vida, cuando decides cambiar un pensamiento.",
+    "contactmessage":"¿Qué tal sería terminar el trabajo en menos tiempo y ahorrando recursos y por lo tanto, dinero?",
+    "email": "ipluass@gmail.com",
+    "phone": "099 999 9999",
+    "address":{
+      "street":"Av. Guayaquil y Lentamendi",
+      "city":"Milagro",
+      "state":"Cdla. La Pradera"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"#",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"#",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"#",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Cuando diseño no considero el aspecto técnico y comercial, si no los sueños y los deseos de la gente para quién está enfocado el proyecto u objeto",
+    "education":[
+      {
+        "school":"Universidad",
+        "degree":"Unemi - Carrera de Ingeniería en Software",
+        "graduated":"Próximamente",
+        "description":"La educación ya no puede ser de propiedad exclusiva del estado."
+      },
+      {
+        "school":"E.P.M ",
+        "degree":"Libertador de América School - Bachiller en Ciencias",
+        "graduated":"Febrero 2018",
+        "description":"Educación es lo que queda después de olvidar lo que se ha aprendido en la escuela."
+      }
+    ],
+    "work":[
+      {
+        "company":"Independiente",
+        "title":"Analista en Redes",
+        "years":"Abril 2019 - Actualidad",
+        "description":"Identificar, formular y resolver problemas de los sistemas de comunicaciones y redes de datos empleando técnicas y métodos que permitan elevar la producción y la productividad sin afectar el ambiente"
+      },
+      {
+        "company":"MobilSaveBor",
+        "title":"Jefe de Seguridad",
+        "years":"Enero 2006 - Diciembre 2018",
+        "description":"Custodiar un lugar determinado para prevenir cualquier tipo de violación. Patrullar el área para detectar actitudes sospechosas. Vigilar el área mediante la observación de sistemas de videocámaras y circuitos cerrados de televisión (CCTV)."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Redes",
+        "level":"90%"
+      },
+      {
+        "name":"Diseño Gráfico & Web",
+        "level":"80%"
+      },
+      {
+        "name":"Crear Diseños",
+        "level":"70%"
+      },
+      {
+        "name":"Calistenia",
+        "level":"75%"
+      },
+      {
+        "name":"Natación",
+        "level":"45%"
+      },
+      {
+        "name":"Jugar Fútbol",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Colores Llamativos",
+        "category":"El diseño es una conexión con el mundo",
+        "image":"canadian-wanderlust.jpg",
+        "url":"#"
+      },
+      {
+        "title":"¿Qué es diseño?",
+        "category":"El diseño hace lucir la tecnología",
+        "image":"fury-fighting-gear.jpg",
+        "url":"#"
+      },
+      {
+        "title":"El contenido precede al diseño.",
+        "category":"La gente ignora el diseño que ignora a la gente",
+        "image":"original-thai-food.jpg",
+        "url":"#"
+      },
+      {
+        "title":"El pensamiento hecho visual",
+        "category":"Diseñar en ausencia de contenido no es diseño, es decoración",
+        "image":"resume-website.jpg",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Quiero compartir contigo el testimonio de mi experiencia personal. Haberte elegido representó una oportunidad importante para poder asistir y completar el curso de redes sin desatender mis compromisos laborales, cosa que ninguna otra empresa me presentó como oportunidad",
+        "user":"Mónica de la Rosa"
+      },
+      {
+        "text":"Demostró una gran pasión, conocimiento y compromiso hacia el equipo de proyectos de Ingeniería. Se consiguieron cambios radicales en la manera de gestionar proyectos, con resultados inmediatos. Su colaboración para el éxito de la consolidación de operaciones en la organización fue contundente",
+        "user":"Alejandro Bargalló"
+      }
+    ]
+  }
+}
